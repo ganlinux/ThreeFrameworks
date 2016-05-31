@@ -16,6 +16,9 @@ import com.example.ganmt.threeframeworks.mvvm.vm.MainViewModel;
 
 /**
  * @author ganmt
+ * 初始化vm m（数据）
+ * 用户事件处理
+ * 界面基本的提示、loading
  *
  */
 public class TestMVVMActivity extends AppCompatActivity implements LoginView{

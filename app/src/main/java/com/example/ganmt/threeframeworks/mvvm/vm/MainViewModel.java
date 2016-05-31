@@ -9,6 +9,8 @@ import com.example.ganmt.threeframeworks.mvvm.model.OnLoginListener;
 
 /**
  * @author ganmt
+ * 数据绑定
+ * 调用acticity基本的提示
  *
  */
 public class MainViewModel extends BaseObservable implements OnLoginListener{

@@ -16,7 +16,8 @@ import retrofit2.Response;
 
 /**
  * @author ganmt
- *
+ * 执行任务 网络、数据库操作等
+ * 调用处理接口
  */
 public class LoginModel {
     private LoginService git;
